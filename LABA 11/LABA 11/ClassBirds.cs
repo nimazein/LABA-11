@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LABA_11
 {
-    class ClassBirds : KingdomAnimal
+    public class ClassBirds : KingdomAnimal
     {
         bool flying;
         bool domestic;

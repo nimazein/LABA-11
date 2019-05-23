@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LABA_11
 {
-    class OrderArtiodactyl : ClassMammals
+    public class OrderArtiodactyl : ClassMammals
     {
         bool hasHorns;
         string habitat;

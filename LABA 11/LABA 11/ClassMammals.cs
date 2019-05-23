@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LABA_11
 {
-    class ClassMammals : KingdomAnimal
+    public class ClassMammals : KingdomAnimal
     {
         int incubationPeriod;
         int lifeExpectancy;

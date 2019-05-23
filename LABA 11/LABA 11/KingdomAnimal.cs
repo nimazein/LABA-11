@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LABA_11
 {
-    class KingdomAnimal
+    public class KingdomAnimal
     {
         string name;
         int weight;
