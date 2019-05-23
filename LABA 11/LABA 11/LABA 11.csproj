@@ -68,6 +68,12 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="KingdomAnimal.cs" />
+    <Compile Include="LookOverList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LookOverList.Designer.cs">
+      <DependentUpon>LookOverList.cs</DependentUpon>
+    </Compile>
     <Compile Include="NumberOfElementsWithThisType.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -92,6 +98,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LookOverList.resx">
+      <DependentUpon>LookOverList.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="NumberOfElementsWithThisType.resx">
       <DependentUpon>NumberOfElementsWithThisType.cs</DependentUpon>

@@ -9,7 +9,7 @@ namespace LABA_11
 {
     class Collections
     {
-        static SortedList animals = new SortedList();
+        public static SortedList animals = new SortedList();
 
         static int animalNumber = 1;
         static int mammalNumber = 1;
